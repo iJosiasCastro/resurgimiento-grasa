@@ -1,0 +1,112 @@
+p{
+    margin-bottom: 0px !important;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.spacer {
+    height: 50px;
+}
+
+.spacer-lg {
+    height: 100px;
+}
+
+.spacer-sm {
+    height: 25px;
+}
+
+.width-800 {
+    max-width: 800px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.width-950 {
+    max-width: 950px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.width-1200 {
+    max-width: 1200px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.width-600 {
+    max-width: 600px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.width-400 {
+    max-width: 400px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+@media (max-width: 991px){
+    .spacer {
+        height: 30px;
+    }
+}
+
+
+.header-image {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('/img/header-image.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+
+.icon {
+    width: 30px;
+    height: 30px;
+    background-position: center center;
+    background-size: contain;
+}
+
+.icon-instagram {
+    background-image: url('media/img/instagram.svg');
+}
+
+
+
+.form-input {
+    border: 2px solid #D9D9D9;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.form-input:focus {
+    outline: none !important;
+}
+
+.carousel-item div {
+    display: block;
+    width: 100%;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+    padding: 70.37% 0 0 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+.user-icon {
+    width: 40px;
+    height: 40px;
+}
+
+

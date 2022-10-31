@@ -1,0 +1,50 @@
+[
+    {
+        "id":"1",
+        "name": "Josias Castro",
+        "course" : "6°2 Info",
+        "role" : "Presidente"
+    },
+    {
+        "id":"2",
+        "name": "Morena Cabanillas",
+        "course" : "6°5 Mecánica",
+        "role" : "Vicepresidenta"
+    },
+    {
+        "id":"3",
+        "name": "Karina Robbiani",
+        "course" : "Profesora de Inglés",
+        "role" : "Tutora"
+    },
+    {
+        "id":"4",
+        "name": "Tomas Canozo",
+        "course" : "6°2 Info",
+        "role" : "Secretario"
+    },
+    {
+        "id":"5",
+        "name": "Pierina Velázquez",
+        "course" : "6°3 MMO",
+        "role" : "Tesorera"
+    },
+    {
+        "id":"6",
+        "name": "Jano Vejling",
+        "course" : "6°2 Info",
+        "role" : "Redes"
+    },
+    {
+        "id":"7",
+        "name": "Romero Santiago",
+        "course" : "6°1 Electro",
+        "role" : "Problemáticas"
+    },
+    {
+        "id":"8",
+        "name": "Damian Guevara",
+        "course" : "6°1 Electro",
+        "role" : "Problemáticas"
+    }
+]
